@@ -76,7 +76,7 @@ Yaml front matter is a wrapper to [js-yaml](https://github.com/nodeca/js-yaml). 
 ## Browser
 
 ```html
-<script src="js-yaml-for-browser.js"></script><!-- Rquires JS-YAML --->
+<script src="js-yaml-for-browser.js"></script><!-- Rquires JS-YAML -->
 <script src="build.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
@@ -163,7 +163,7 @@ To run the tests first install the development dependencies:
 
     $ npm install --dev
 
-Then run
+Then -
 
     $ npm test
     # may have to run
